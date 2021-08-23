@@ -1,0 +1,21 @@
+
+.buttons{
+    width : 80px;
+}
+
+.tabulkaVypis{
+    border: 1px solid black;
+    background-color: #EAEAEA;
+    text-align: center;
+}
+
+.prvni{
+    width: 30px;
+    border: 1px solid black;
+    background-color: #FBFBFB;
+}
+.ostatni{
+    width: 100px;
+    border: 1px solid black;
+    background-color: #FBFBFB;
+}
